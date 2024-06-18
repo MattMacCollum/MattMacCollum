@@ -1,4 +1,4 @@
-<h1 align="left">🌿 Matt MacCollum 🌿</h1>
+<h1 align="centre">🌿 Matt MacCollum 🌿</h1>
 
 ###
 
