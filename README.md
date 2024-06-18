@@ -1,4 +1,4 @@
-<h1 align="centre">🌿 Matt MacCollum 🌿</h1>
+<h1 align="center">🌿 Matt MacCollum 🌿</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 
 ###
-<div align='centre'>
+<div align='center'>
     <h2 align='centre'>Proficient in</h2>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="Javascript logo"/>
@@ -60,7 +60,7 @@
 
 
 
-<div align='centre'>
+<div align='center'>
     <h2 align='centre'> Currently Learning </h2>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="Javascript logo"/>
