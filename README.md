@@ -24,9 +24,9 @@
 
 ###
 <div align='centre'>
-    <h2>"Proficient in"</h2>
+    <h2 align='centre'>Proficient in</h2>
     <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img src="https://www.flaticon.com/free-icon/java_15484259?term=java&page=1&position=45&origin=search&related_id=15484259" height="30" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
     <img width="12" />
