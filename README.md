@@ -54,8 +54,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
     height="45" alt="selenium logo"/>
-        
-        
+    <img width="12" />
     </div>
 </div>
 
