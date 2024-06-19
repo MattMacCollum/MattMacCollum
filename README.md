@@ -2,6 +2,8 @@
 
 ###
 
+
+
 <div align='centre'>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -68,13 +70,10 @@
 
 
 <div align='center'>
-    h2{
-        display:inline
-    }
-    <div align="center">
-        <img src="ZWdx.gif" height="60" alt="Loading bar gif">
+    <div>
+        <img src="ZWdx.gif" height="60" style="float: left" alt="Loading bar gif">
         <h2 align='centre'> Currently Learning </h2>
-        <img src="ZWdx.gif" height="60" alt="Loading bar gif">
+        <img src="ZWdx.gif" height="60" style="float right" alt="Loading bar gif">
     </div>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS"/>
