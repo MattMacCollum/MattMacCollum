@@ -31,6 +31,7 @@
 ###
 <div align='center'>
     <h2 align='centre'>✅ Proficient in ✅</h2>
+    <img src="ZWdx.gif" height="40" alt="Loading bar gif">
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="Javascript logo"/>
     <img width="12" />
