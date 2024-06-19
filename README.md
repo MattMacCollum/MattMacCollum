@@ -80,8 +80,12 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="45" alt="Docker" />
     <img width="12" />
-         
- 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="45" alt="Blender"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" height="45" alt="Unity"/>
+    <img width="12" />
+
+          
     </div>
 </div>
 
