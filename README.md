@@ -68,6 +68,9 @@
 
 
 <div align='center'>
+    h2{
+        display:inline
+    }
     <div align="center">
         <img src="ZWdx.gif" height="60" alt="Loading bar gif">
         <h2 align='centre'> Currently Learning </h2>
