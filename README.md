@@ -71,9 +71,7 @@
 
 <div align='center'>
     <div>
-        <img src="ZWdx.gif" height="60" style="display: inline" alt="Loading bar gif">
-        <h2 style="display inline"> Currently Learning </h2>
-        <img src="ZWdx.gif" height="60" style="display inline" alt="Loading bar gif">
+        <img src="ZWdx.gif" height="60" style="display: inline" alt="Loading bar gif"><h2 style="display inline"> Currently Learning </h2><img src="ZWdx.gif" height="60" style="display inline" alt="Loading bar gif">
     </div>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS"/>
