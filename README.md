@@ -5,7 +5,8 @@
 
 <div align='centre'>
     <p>
-    I am a current PhD student, finishing up a project in low mass dwarf star flare detection using All-Sky surveys (in this case, the <a href="https://atlas.fallingstar.com/">ATLAS</a> and <a href="https://outerspace.stsci.edu/display/PANSTARRS/">PanStarrs</a> systems). This work has been made up largely of writing my own custom pipeline in python and jupyter to process time series data from the telescopes and apply analysis to them in order to flag flares, and estimate their important physical properties
+    I am a current PhD student, finishing up a project in low mass dwarf star flare detection using All-Sky surveys (in this case, the <a href="https://atlas.fallingstar.com/">ATLAS</a> and <a href="https://outerspace.stsci.edu/display/PANSTARRS/">PanStarrs</a> systems). This work has been made up largely of writing my own custom pipeline in python and jupyter to process time series data from the telescopes and apply analysis to them in order to flag flares, and estimate their important physical properties.
+    On top of my academic work, my own personal interests are broad, including Time Series analysis, Geospatial Information Systems, Exploratory Data Analysis, and recently, have been gaining more experience with machine learning.
     </p>
 
 </div>
