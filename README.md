@@ -72,7 +72,11 @@ h2 {
 
 
 <div align='center'>
-    <div><img src="ZWdx.gif" height="60" alt="Loading bar gif"><h2>Currently Learning</h2><img src="ZWdx.gif" height="60" alt="Loading bar gif"></div>
+    <div>
+        <img src="ZWdx.gif" style="float: left"/>
+        <h2>Proficient in</h2>
+        <img src="ZWdx.gif" style="float: right"/>
+    </div>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS"/>
     <img width="12" />
