@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<h2>Profile Stats</h2>
+<h2>📊 Profile Stats 📊</h2>
   
 ![MattMacCollum's Stats](https://github-readme-stats.vercel.app/api?username=MattMacCollum&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -30,7 +30,7 @@
 
 ###
 <div align='center'>
-    <h2 align='centre'>Proficient in</h2>
+    <h2 align='centre'>✅ Proficient in ✅</h2>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="Javascript logo"/>
     <img width="12" />
