@@ -2,13 +2,10 @@
 
 ###
 
-h2 {
-    display: inline;
-}
 
 <div align='centre'>
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    I am a current PhD student, finishing up a project in low mass dwarf star flare detection using All-Sky surveys (in this case, the <a href="https://atlas.fallingstar.com/">ATLAS</a> and <a href="https://outerspace.stsci.edu/display/PANSTARRS/">PanStarrs</a> systems). This work has been made up largely of writing my own custom pipeline in python and jupyter to process time series data from the telescopes and apply analysis to them in order to flag flares, and estimate their important physical properties
     </p>
 
 </div>
