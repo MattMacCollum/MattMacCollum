@@ -68,8 +68,11 @@
 
 
 <div align='center'>
-    <h2 align='centre'> Currently Learning </h2>
-    <img src="ZWdx.gif" height="50" alt="Loading bar gif">
+    <div align="center">
+        <img src="ZWdx.gif" height="60" alt="Loading bar gif">
+        <h2 align='centre'> Currently Learning </h2>
+        <img src="ZWdx.gif" height="60" alt="Loading bar gif">
+    </div>
     <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS"/>
     <img width="12" />
